@@ -118,5 +118,9 @@ python test_server.py
 MIT License - see LICENSE file for details
 
 ## Author
+## Attribution
+This project is based on tds-data-analyst-agent by maheshwar2003
+Original source: [[link]](https://github.com/maheswar2003/tds-data-analyst-agent)
+Licensed under MIT License
 
 Created for the TDS Data Analyst Agent project
